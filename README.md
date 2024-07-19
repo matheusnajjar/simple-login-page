@@ -19,3 +19,7 @@ This project is a simple login page created using HTML, CSS, and JavaScript. It 
 - User-friendly interface
 - Basic validation for username and password fields
 - Responsive design
+
+## Demo
+
+Check out the live demo of the project [here](https://simple-login-page-zeta.vercel.app/).
